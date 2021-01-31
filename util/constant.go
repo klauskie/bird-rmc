@@ -1,0 +1,10 @@
+package util
+
+const (
+	PLAY_PAUSE = iota
+	FULLSCREEN
+	MUTE
+	SKIP_BACK
+	SKIP_FORWARD
+	NEXT_VIDEO
+)
